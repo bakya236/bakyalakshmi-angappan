@@ -1,0 +1,72 @@
+body{
+    background-color:#ffffff;
+
+}
+
+header{
+    background-color: #000066;
+    border-radius: 30px;
+    padding-bottom: 13px;
+}
+
+h1{
+    color:white;
+    padding: 10px 5px;
+    text-align: center;
+    font-family:"Domine" , serif;
+}
+
+h2,h3{
+    color:#000066;
+    font-family:"Domine" , serif;
+}
+
+
+a{
+    color: #ffffff;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin:40px;
+    font-family: 'Poppins', sans-serif;
+    hover
+}
+
+nav{
+        text-align: center;
+}
+
+.photo{
+    background-color:#000066 ;
+}
+
+#freshworks{
+    width:310px;
+    height:330px;
+    
+}
+
+.sectionflex{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+   
+}
+
+#aboutme{
+    color:#000066;
+    font-size: larger;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+}
+ 
+img{
+    width:50px;
+    height:50px;
+}
+
+ #linkedin,#github {
+    padding:1px;
+}

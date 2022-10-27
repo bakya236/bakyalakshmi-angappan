@@ -35,10 +35,6 @@ nav{
         text-align: center;
 }
 
-.photo{
-    background-color:#000066 ;
-}
-
 #freshworks{
     width:310px;
     height:330px;
@@ -48,7 +44,7 @@ nav{
 .sectionflex{
     display:flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap:nowrap;
    
 }
 
@@ -67,6 +63,3 @@ img{
     height:50px;
 }
 
- #linkedin,#github {
-    padding:1px;
-}

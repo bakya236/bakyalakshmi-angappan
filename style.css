@@ -26,9 +26,11 @@ a{
     color: #ffffff;
     text-transform: capitalize;
     text-decoration: none;
-    margin:40px;
     font-family: 'Poppins', sans-serif;
-    hover
+}
+
+.headernav{
+    margin: 40px;
 }
 
 nav{
@@ -36,9 +38,8 @@ nav{
 }
 
 #freshworks{
-    width:310px;
-    height:330px;
-    
+    width:250px;
+    height:110px;
 }
 
 .sectionflex{
@@ -63,3 +64,15 @@ img{
     height:50px;
 }
 
+footer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+#first {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-between;
+}
